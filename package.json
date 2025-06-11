@@ -17,7 +17,7 @@
     "emoji-datasource": "^6.0.0"
   },
   "peerDependencies": {
-    "@react-native-async-storage/async-storage": "1.23.1"
+    "@react-native-async-storage/async-storage": "*"
   },
   "peerDependenciesMeta": {
     "@react-native-async-storage/async-storage": {
